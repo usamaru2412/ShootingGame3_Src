@@ -1,0 +1,23 @@
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\ShootingGame2.exe.config
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\ShootingGame2.exe
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\ShootingGame2.pdb
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.AssemblyReference.cache
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.Form1.resources
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.Properties.Resources.resources
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.GenerateResource.cache
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.CoreCompileInputs.cache
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.exe
+I:\★　ゲーム開発C#　電子キット\【バックアップ】\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.pdb
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\ShootingGame2.exe.config
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\ShootingGame2.exe
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\ShootingGame2.pdb
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.AssemblyReference.cache
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.Form1.resources
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.Properties.Resources.resources
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.GenerateResource.cache
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.CoreCompileInputs.cache
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.exe
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.pdb
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\obj\Debug\ShootingGame2.csproj.CopyComplete
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\SmallBasicLibrary.dll
+E:\_共有用_フォルダ\★ Game_WinForm\ShootingGame1\ShootingGame2\bin\Debug\SmallBasicLibrary.xml
